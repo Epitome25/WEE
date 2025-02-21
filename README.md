@@ -1,1 +1,1 @@
-# WEE
+# WEE-CropSmart
